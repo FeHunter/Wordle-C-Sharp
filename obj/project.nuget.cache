@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCbWXig34+OrINO4Y2RDXLNG3aC09qAABvJaei2tgcuzccFN4oSr6aSaTvBt0xo+kpOYdLgJyUAHE1nwzkschQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hunte\\Documents\\Programação\\My Projects\\Wordle\\Wordle C-Sharp\\Wordle C-Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hunte\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

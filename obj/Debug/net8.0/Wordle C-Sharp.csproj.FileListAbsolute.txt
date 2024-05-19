@@ -1,0 +1,17 @@
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\bin\Debug\net8.0\Wordle C-Sharp.exe
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\bin\Debug\net8.0\Wordle C-Sharp.deps.json
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\bin\Debug\net8.0\Wordle C-Sharp.runtimeconfig.json
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\bin\Debug\net8.0\Wordle C-Sharp.dll
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\bin\Debug\net8.0\Wordle C-Sharp.pdb
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\bin\Debug\net8.0\RestSharp.dll
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.csproj.AssemblyReference.cache
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.AssemblyInfoInputs.cache
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.AssemblyInfo.cs
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C.D6886FDC.Up2Date
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.dll
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\refint\Wordle C-Sharp.dll
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.pdb
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\Wordle C-Sharp.genruntimeconfig.cache
+C:\Users\hunte\Documents\Programação\My Projects\Wordle\Wordle C-Sharp\obj\Debug\net8.0\ref\Wordle C-Sharp.dll
